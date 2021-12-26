@@ -44,18 +44,19 @@
 </p>
 <img align="right" height="270px" width="450px" margin="30px" alt="GIF"
     src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
-<p style="width:50%; margin: 5px;">
+    
+<p width:"50%" margin: "5px">
 
-    ###I'm an aspiring Tunisian developer looking for the next challenge 👋 👋 👋😊
+###  I'm an aspiring Tunisian developer looking for the next challenge 👋 👋 👋😊
 
-    - 🔭 I’m Founder of Information Technology:
-    - 🌱 I’m currently learning MERN Stack Development.
-    - 👯 I’m looking to collaborate with other Developers :wink:
-    - 🥅 2021 Goals: To Create my community developers
-    - 💬 Ask me about anything, I am happy to help :smile:
-    - 📬 How to reach me: <a href="https://www.linkedin.com/in/mohamed-dida/" >Mohamed Dida</a>
-    - 🧗 I try to: Go beyond and push the bounds my to be better
-    - ⚡ Fun fact: I belive some day I will create my own project and I promise will do this :raised_hands:
+   - 🔭 I’m Founder of Information Technology:
+   - 🌱 I’m currently learning MERN Stack Development.
+   - 👯 I’m looking to collaborate with other Developers :wink:
+   - 🥅 2021 Goals: To Create my community developers
+   - 💬 Ask me about anything, I am happy to help :smile:
+   - 📬 How to reach me: <a href="https://www.linkedin.com/in/mohamed-dida/" >Mohamed Dida</a>
+   - 🧗 I try to: Go beyond and push the bounds my to be better
+   - ⚡ Fun fact: I belive some day I will create my own project and I promise will do this :raised_hands:
 </p>
 
 
