@@ -1,6 +1,5 @@
 [![Matrix SVG](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)]
 
-<br />
 
 <div align="center">
     <h1><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎<a
@@ -10,7 +9,6 @@
             width="30"></h1>
     <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20">
 </div>
-
 
 <p align="center">
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/mohameddida" />
@@ -41,9 +39,6 @@
             style="vertical-align:top; margin:4px" alt="twitter" /></a>&nbsp;
 </p>
 
-<br>
-
-
 <p align="center">
 <h3> I'm 23 years old Self-taught Full-Stack developer from Tunisian.</h3>
 </p>
@@ -60,13 +55,11 @@
     - 💬 Ask me about anything, I am happy to help :smile:
     - 📬 How to reach me: [Let's get in touch!][linkedin]
     - 🧗 I try to: Go beyond and push the bounds my to be better
-    - ⚡ Fun fact: I belive some day I will create my own project and I  promise will do this :raised_hands:
+    - ⚡ Fun fact: I belive some day I will create my own project and I promise will do this :raised_hands:
 </p>
 
 
 <h3 align="center">Languages and Frameworks</h3>
-
-
 
 <p align="center">
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40" />
@@ -79,11 +72,8 @@
     <img src="https://www.logolynx.com/images/logolynx/c5/c509c38cb89bcf556b2051222663f398.png" alt="NodeJs" width="40"
         height="40" />
     <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongo" width="40" height="40" />
-
-
     <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40" />
     <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="40" height="40" />
-
 </p>
 
 ### - Languages
@@ -143,24 +133,16 @@
 
 ### - What i do
 
-<br />
-
 <p align="center">
     <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
 </p>
-
-
 <br />
-
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
-
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api?username=mohameddida&&show_icons=true&theme=radical" />
     </a>
-
 </p>
-
 <p align="center">
     <a href="https://github.com/mohameddida">
         <img src="https://github-readme-stats.vercel.app/api?username=mohameddida&count_private=true&hide_border=true&show_icons=true"
