@@ -53,7 +53,7 @@
     - 👯 I’m looking to collaborate with other Developers :wink:
     - 🥅 2021 Goals: To Create my community developers
     - 💬 Ask me about anything, I am happy to help :smile:
-    - 📬 How to reach me: [Let's get in touch!][linkedin]
+    - 📬 How to reach me: <a href="https://www.linkedin.com/in/mohamed-dida/" >Mohamed Dida</a>
     - 🧗 I try to: Go beyond and push the bounds my to be better
     - ⚡ Fun fact: I belive some day I will create my own project and I promise will do this :raised_hands:
 </p>
