@@ -81,34 +81,34 @@
 <p align="center">
     <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
     <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html"
-        style="vertical-align:top; margin:4px">
+        style="vertical-align:top; margin:4px"/>
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/css3.svg" alt="css3"
-        style="vertical-align:top; margin:4px">
+        style="vertical-align:top; margin:4px"/>
     <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js"
-        style="vertical-align:top; margin:4px">
+        style="vertical-align:top; margin:4px"/>
     <img src="	https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/php.svg" alt="php"
-        style="vertical-align:top; margin:4px">
+        style="vertical-align:top; margin:4px"/>
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/java.svg" alt="java"
-        style="vertical-align:top; margin:4px">
+        style="vertical-align:top; margin:4px"/>
     <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python"
-        style="vertical-align:top; margin:4px">
+        style="vertical-align:top; margin:4px"/>
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/dart.svg" alt="dart"
-        style="vertical-align:top; margin:4px">
+        style="vertical-align:top; margin:4px"/>
     <br />
 </p>
 ### - Frameworks
 <p align="center">
 
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/bootstrap.svg"
-        alt="bootstrap" style="vertical-align:top; margin:4px">
+        alt="bootstrap" style="vertical-align:top; margin:4px"/>
     <img src="	https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/nodejs.svg" alt="node"
-        style="vertical-align:top; margin:4px">
+        style="vertical-align:top; margin:4px"/>
     <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react"
-        style="vertical-align:top; margin:4px">
+        style="vertical-align:top; margin:4px"/>
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/angular.svg" alt="angular"
-        style="vertical-align:top; margin:4px">
+        style="vertical-align:top; margin:4px"/>
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/flutter.svg" alt="Flutter"
-        style="vertical-align:top; margin:4px">
+        style="vertical-align:top; margin:4px"/>
 </p>
 <br />
 
@@ -116,19 +116,19 @@
 <p align="center">
 
     <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm"
-        style="vertical-align:top; margin:4px">
+        style="vertical-align:top; margin:4px"/>
     <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash"
-        style="vertical-align:top; margin:4px">
+        style="vertical-align:top; margin:4px"/>
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/powershell.svg" alt="powershell"
-        style="vertical-align:top; margin:4px">
+        style="vertical-align:top; margin:4px"/>
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/misc/web.svg" alt="website"
-        style="vertical-align:top; margin:4px">
+        style="vertical-align:top; margin:4px"/>
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/misc/mobile.svg" alt="mobile"
-        style="vertical-align:top; margin:4px">
+        style="vertical-align:top; margin:4px"/>
     <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg"
-        alt="vscode" style="vertical-align:top; margin:4px">
+        alt="vscode" style="vertical-align:top; margin:4px"/>
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/eclipse.svg" alt="eclipse"
-        style="vertical-align:top; margin:4px">
+        style="vertical-align:top; margin:4px"/>
 </p>
 
 ### - What i do
@@ -146,12 +146,12 @@
 <p align="center">
     <a href="https://github.com/mohameddida">
         <img src="https://github-readme-stats.vercel.app/api?username=mohameddida&count_private=true&hide_border=true&show_icons=true"
-            alt="mohameddida's github stats">
+            alt="mohameddida's github stats"/>
     </a>
 </p>
 <p align="center">
     <a href="https://github.com/mohameddida">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohameddida&layout=compact&hide_border=true&show_icons=true&count_private=true"
-            alt="mohameddida's github stats">
+            alt="mohameddida's github stats"/>
     </a>
 </p>
