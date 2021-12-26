@@ -1,82 +1,175 @@
-### Hi there 👋
+[![Matrix SVG](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)]
 
-<!--
-**mohameddida/mohameddida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
+<div align="center">
+    <h1><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎<a
+            href="https://www.facebook.com/mohameddida1506/">Mohamed Dida</a> <img
+            src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> | 💻 Full
+        Stack Developer | 🛸 Tunisian , Tozeur <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"
+            width="30"></h1>
+    <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
- [![Matrix SVG](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)]
-
-<p>
-  <h1 align="center"><b>Hello there, I'm Chadi Troudi 👋</b></h1>
-</p>
-<h4 align="center"><b>I'm an engineering software student </b></h4>
-<p>
-  <h4 align="center"><b>"Talk is cheap. Show me the code"</b></h4>
-</p>
 
 <p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/Chadi7781" />
+    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/mohameddida" />
 </p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Chadi7781" alt="Chadi7781" /></a> </p>
+<h5 align="center">
+    <i>⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️</i>
+</h5>
+<p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=mohameddida" alt="mohameddida" />
+    </a>
+</p>
+
 
 <p align="center">
-<br>
-<a href="https://www.facebook.com/shado.troudi/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-<a href="https://www.linkedin.com/in/chaditroudi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:troudishedy6@gmail.com?subject=Hola%20Sumanth"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
+    <br>
+    <a href="https://www.instagram.com/mohamed15dida/"><img
+            src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/instagram.svg"
+            style="vertical-align:top; margin:4px" alt="instagram" /></a>
+    <a href="https://www.linkedin.com/in/mohamed-dida/"><img
+            src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/linkedin.svg"
+            style="vertical-align:top; margin:4px" alt="LinkedIn" /></a>&nbsp;
+    <a href="mailto:mohameddida891@gmail.com?subject=Hola%20Sumanth"><img
+            src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/gmail.svg"
+            style="vertical-align:top; margin:4px" alt="Gmail" /></a>&nbsp;
+    <a href="https://twitter.com/DidaMoh40000321"><img
+            src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg"
+            style="vertical-align:top; margin:4px" alt="twitter" /></a>&nbsp;
 </p>
 
 <br>
 
-<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-###I'm an aspiring Tunisian  developer looking for the next challenge  👋 👋 👋😊
+<p align="center">
+<h3> I'm 23 years old Self-taught Full-Stack developer from Tunisian.</h3>
+</p>
+<img align="right" height="270px" width="450px" margin="30px" alt="GIF"
+    src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
+<p style="width:50%; margin: 5px;">
 
-- 🔭 I’m currently working on MEAN Stack Development:
-- 🌱 I’m currently learning MERN Stack Development.
-- 👯 I’m looking to collaborate with other Developers :wink:
-- 🥅 2021 Goals: Contribute to Open Source projects
-- 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!][linkedin]
-- 🧗 I try to: Go beyond and push the bounds
-- ⚡ Fun fact: I love connecting with different people :raised_hands:
+    ###I'm an aspiring Tunisian developer looking for the next challenge 👋 👋 👋😊
+
+    - 🔭 I’m Founder of Information Technology:
+    - 🌱 I’m currently learning MERN Stack Development.
+    - 👯 I’m looking to collaborate with other Developers :wink:
+    - 🥅 2021 Goals: To Create my community developers
+    - 💬 Ask me about anything, I am happy to help :smile:
+    - 📬 How to reach me: [Let's get in touch!][linkedin]
+    - 🧗 I try to: Go beyond and push the bounds my to be better
+    - ⚡ Fun fact: I belive some day I will create my own project and I  promise will do this :raised_hands:
+</p>
+
 
 <h3 align="center">Languages and Frameworks</h3>
-<br>
+
+
 
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
-  <img src="https://seeklogo.com/images/A/angular-logo-CF8B6B5B10-seeklogo.com.png" alt="angular" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  <img src="https://seeklogo.com/images/S/symfony-logo-AA34C8FC16-seeklogo.com.png" alt="Symfony" width="40" height="40"/>
-  <img src="https://www.logolynx.com/images/logolynx/c5/c509c38cb89bcf556b2051222663f398.png" alt="NodeJs" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongo" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40" />
+    <img src="https://seeklogo.com/images/A/angular-logo-CF8B6B5B10-seeklogo.com.png" alt="angular" width="40"
+        height="40" />
+    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
+    <img src="https://seeklogo.com/images/S/symfony-logo-AA34C8FC16-seeklogo.com.png" alt="Symfony" width="40"
+        height="40" />
+    <img src="https://www.logolynx.com/images/logolynx/c5/c509c38cb89bcf556b2051222663f398.png" alt="NodeJs" width="40"
+        height="40" />
+    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongo" width="40" height="40" />
 
-  
-  <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"/> 
-    <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="40" height="40"/> 
 
- </p>
+    <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="40" height="40" />
+
+</p>
+
+### - Languages
 
 <p align="center">
-  <a href="https://github.com/Chadi7781">
-    <img src="https://github-readme-stats.vercel.app/api?username=Chadi7781&count_private=true&hide_border=true&show_icons=true" alt="Chadi7781's github stats">
-  </a>
+    <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html"
+        style="vertical-align:top; margin:4px">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/css3.svg" alt="css3"
+        style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js"
+        style="vertical-align:top; margin:4px">
+    <img src="	https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/php.svg" alt="php"
+        style="vertical-align:top; margin:4px">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/java.svg" alt="java"
+        style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python"
+        style="vertical-align:top; margin:4px">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/dart.svg" alt="dart"
+        style="vertical-align:top; margin:4px">
+    <br />
+</p>
+### - Frameworks
+<p align="center">
+
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/bootstrap.svg"
+        alt="bootstrap" style="vertical-align:top; margin:4px">
+    <img src="	https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/nodejs.svg" alt="node"
+        style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react"
+        style="vertical-align:top; margin:4px">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/angular.svg" alt="angular"
+        style="vertical-align:top; margin:4px">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/flutter.svg" alt="Flutter"
+        style="vertical-align:top; margin:4px">
+</p>
+<br />
+
+### - Tools
+<p align="center">
+
+    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm"
+        style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash"
+        style="vertical-align:top; margin:4px">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/powershell.svg" alt="powershell"
+        style="vertical-align:top; margin:4px">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/misc/web.svg" alt="website"
+        style="vertical-align:top; margin:4px">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/misc/mobile.svg" alt="mobile"
+        style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg"
+        alt="vscode" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/eclipse.svg" alt="eclipse"
+        style="vertical-align:top; margin:4px">
+</p>
+
+### - What i do
+
+<br />
+
+<p align="center">
+    <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
+</p>
+
+
+<br />
+
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=mohameddida&&show_icons=true&theme=radical" />
+    </a>
+
+</p>
+
+<p align="center">
+    <a href="https://github.com/mohameddida">
+        <img src="https://github-readme-stats.vercel.app/api?username=mohameddida&count_private=true&hide_border=true&show_icons=true"
+            alt="mohameddida's github stats">
+    </a>
 </p>
 <p align="center">
-  <a href="https://github.com/Chadi7781">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chadi7781&layout=compact&hide_border=true&show_icons=true&count_private=true" alt="Chadi7781's github stats">
-  </a>
+    <a href="https://github.com/mohameddida">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohameddida&layout=compact&hide_border=true&show_icons=true&count_private=true"
+            alt="mohameddida's github stats">
+    </a>
 </p>
