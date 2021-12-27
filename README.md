@@ -49,7 +49,7 @@
     
 <p width:"50%" margin: "5px">
 
-###  <h4>I'm an aspiring Tunisian developer looking for the next challenge 👋 👋 👋😊</h4>
+###  <h4>  I'm an aspiring Tunisian developer looking for the next challenge 👋 👋 👋😊</h4>
 
    - 🔭 I’m Founder of Information Technology:
    - 🌱 I’m currently learning MERN Stack Development.
@@ -62,7 +62,7 @@
 </p>
 </p>
 
-###     - Status My Account
+###   <h2>  - Status My Account : </h2>
 
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -81,7 +81,7 @@
 </p>
 
 
-<h3 align="center">Languages and Frameworks</h3>
+ #### <h3 align="center"> -  Languages and Frameworks</h3>
 
 <p align="center">
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40" />
@@ -95,7 +95,7 @@
     <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="40" height="40" />
 </p>
 
-### - Languages
+###  <h2>    - Languages : </h2>
 
 <p align="center">
     <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
@@ -110,7 +110,7 @@
 </p>
 
 
-### - Frameworks
+###    <h2> - Frameworks : </h2>
 
 
 <p align="center">
@@ -133,7 +133,7 @@
 </p>
 
 
-### - Tools
+### <h2> - Tools : </h2>
 <p align="center">
     <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm"style="vertical-align:top; margin:4px"/>
     <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash"style="vertical-align:top; margin:4px"/>
@@ -144,7 +144,7 @@
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/eclipse.svg" alt="eclipse"style="vertical-align:top; margin:4px"/>
 </p>
 
-### - What i do
+### <h2> - What i do : </h2>
 
 <p align="center">
     <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
