@@ -59,6 +59,24 @@
    - ⚡ Fun fact: I belive some day I will create my own project and I promise will do this :raised_hands:
 </p>
 
+### - Status My Account
+
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=mohameddida&&show_icons=true&theme=radical" />
+    </a>
+</p>
+<p align="center">
+    <a href="https://github.com/mohameddida">
+        <img src="https://github-readme-stats.vercel.app/api?username=mohameddida&count_private=true&hide_border=true&show_icons=true"alt="mohameddida's github stats">
+    </a>
+</p>
+<p align="center">
+    <a href="https://github.com/mohameddida">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohameddida&layout=compact&hide_border=true&show_icons=true&count_private=true"alt="mohameddida's github stats">
+    </a>
+</p>
+
 
 <h3 align="center">Languages and Frameworks</h3>
 
@@ -130,18 +148,3 @@
 </p>
 <br />
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=mohameddida&&show_icons=true&theme=radical" />
-    </a>
-</p>
-<p align="center">
-    <a href="https://github.com/mohameddida">
-        <img src="https://github-readme-stats.vercel.app/api?username=mohameddida&count_private=true&hide_border=true&show_icons=true"alt="mohameddida's github stats">
-    </a>
-</p>
-<p align="center">
-    <a href="https://github.com/mohameddida">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohameddida&layout=compact&hide_border=true&show_icons=true&count_private=true"alt="mohameddida's github stats">
-    </a>
-</p>
