@@ -38,16 +38,18 @@
             src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg"
             style="vertical-align:top; margin:4px" alt="twitter" /></a>&nbsp;
 </p>
+<h1 align='center'>⚡️<i>Hey Every One!</i>⚡️</h1>
 
 <p align="center">
 <h3> I'm 23 years old Self-taught Full-Stack developer from Tunisian.</h3>
 </p>
+<p align="center">
 <img align="right" height="270px" width="450px" margin="30px" alt="GIF"
     src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
     
 <p width:"50%" margin: "5px">
 
-###  I'm an aspiring Tunisian developer looking for the next challenge 👋 👋 👋😊
+###  <h4>I'm an aspiring Tunisian developer looking for the next challenge 👋 👋 👋😊</h4>
 
    - 🔭 I’m Founder of Information Technology:
    - 🌱 I’m currently learning MERN Stack Development.
@@ -58,8 +60,9 @@
    - 🧗 I try to: Go beyond and push the bounds my to be better
    - ⚡ Fun fact: I belive some day I will create my own project and I promise will do this :raised_hands:
 </p>
+</p>
 
-### - Status My Account
+###     - Status My Account
 
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -147,4 +150,3 @@
     <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
 </p>
 <br />
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
